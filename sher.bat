@@ -18,7 +18,7 @@ pause
 goto menu
 
 :Winmonitorop
-start "" "C:\Users\17705\Downloads\winmonitor-common.exe" %1
+start "" "D:\winmonitor-common.exe" %1
 echo Application opened successfully.
 pause
 goto menu
