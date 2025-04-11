@@ -2,7 +2,7 @@
 :menu
 cls
 echo ============================
-echo   Hey Sherlock......!
+echo   vankam da mappla......!
 echo ============================
 echo 1. Open Winmonitor
 echo 2. Close Winmonitor
