@@ -21,6 +21,6 @@ set /a Y=!random! %% 100 + 300
 powershell -command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.Cursor]::Position = New-Object System.Drawing.Point(!X!,!Y!)"
 
 :: Wait 5 seconds
-timeout /nobreak /t 5 >nul
+timeout /nobreak /t 3 >nul
 
 goto loop
